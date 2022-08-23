@@ -12,11 +12,11 @@
 
 ### Online Courses
 Note: I've decided that I need to review that math courses that I took over 2 years ago. So that's where we are atm.
-- [x] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
-- [x] Tu Delft - [The Quantum Internet and Quantum Computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+3T2020/course/).
-- [x] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
-- [x] Prof. Leonard Susskind - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw&t=4s)
-- [x] Prof. Barton Zwiebach - [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/).
+- [] Prof. Peter Wittek - [Quantum Machine Learning](https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg).
+- [] Tu Delft - [The Quantum Internet and Quantum Computers](https://courses.edx.org/courses/course-v1:DelftX+QTM1x+3T2020/course/).
+- [] TU Delft - [Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet](https://courses.edx.org/courses/course-v1:DelftX+QTM3x+3T2020/course/).
+- [] Prof. Leonard Susskind - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw&t=4s)
+- [] Prof. Barton Zwiebach - [Quantum Physics I](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/).
 - [ ] Prof. Barton Zwiebach - [Quantum Physics II](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/).
   * Currently on Lecture 20/26. (Skipped lectures 16, 17 and the first half of 18 because of my lack of knowledge in EM.)
 - [ ] Prof. Barton Zwiebach - [Quantum Physics III](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/).
@@ -43,7 +43,7 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 
   
 ### Tutorials and Documentations
-- [x] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
+- [ ] Microsoft's [Quantum Katas](https://github.com/microsoft/QuantumKatas)
 - [ ] Microsoft's [Quantum Documentation](https://docs.microsoft.com/en-us/quantum/).
 - [ ] Microsoft's [Quantum](https://github.com/microsoft/Quantum) repository.
 - [ ] Pennylane's [QML](https://github.com/PennyLaneAI/qml).
@@ -56,10 +56,10 @@ Note: I've decided that I need to review that math courses that I took over 2 ye
 
 ### Books
 The books are mostly linked to their Goodreads entry, but sometimes to the original if they're publicly available.
-- [x] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
-- [x] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
-- [x] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
-- [x] Erwin Schrödinger - [What Is Life? with Mind and Matter](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches).
+- [ ] Noson S. Yanofsky - [Quantum Computing for Computer Scientists](https://www.goodreads.com/book/show/5299445-quantum-computing-for-computer-scientists).
+- [ ] Michael A. Nielsen - [Quantum Computation and Quantum Information](https://www.goodreads.com/book/show/153910.Quantum_Computation_and_Quantum_Information).
+- [ ] John Watrous - [Quantum Computing](https://cs.uwaterloo.ca/~watrous/LectureNotes.html) Lecture Notes.
+- [ ] Erwin Schrödinger - [What Is Life? with Mind and Matter](https://www.goodreads.com/book/show/162780.What_Is_Life_with_Mind_and_Matter_and_Autobiographical_Sketches).
 - [ ] David Griffiths - [Introduction to Quantum Mechanics](https://www.goodreads.com/book/show/41013898-introduction-to-quantum-mechanics).
   * Currently on Page 317/644.
 - [ ] Mark M. Wilde - [Quantum Information Theory](https://www.goodreads.com/book/show/17940926-quantum-information-theory).
@@ -101,9 +101,9 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [James Hartle's papers on Quantum Mechanics and Quantum Cosmology](http://web.physics.ucsb.edu/~quniverse/).
 
 #### Quantum Networks and Quantum Cryptography
-- [x] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
-- [x] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
-- [x] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
+- [ ] [Towards a global quantum network](https://arxiv.org/abs/1710.11585).
+- [ ] [The Engineering of a Scalable Multi-Site Communications System Utilizing Quantum Key Distribution (QKD)](https://arxiv.org/abs/1712.02617).
+- [ ] [Simple security analysis of phase-matching measurement-device-independent quantum key distribution](https://arxiv.org/abs/1807.10202).
 - [ ] [The Security of Practical Quantum Key Distribution](https://arxiv.org/abs/0802.4155).
 - [ ] [Simple Proof of Security of the BB84 Quantum Key Distribution Protocol](https://arxiv.org/abs/quant-ph/0003004).
 - [ ] [Simple security proof of quantum key distribution via uncertainty principle](https://arxiv.org/abs/quant-ph/0505108).
@@ -129,17 +129,17 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 
 #### Quantum Algorithms
-- [x] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
-- [x] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
-- [x] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
-- [x] [Addition on a Quantum Computer](https://arxiv.org/pdf/quant-ph/0008033.pdf).
-- [x] [A new quantum ripple-carry addition circuit](https://arxiv.org/abs/quant-ph/0410184).
-- [x] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
-- [x] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
-- [x] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
-- [x] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
-- [x] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
-- [x] [Quantum Singular Value Transformation and Beyond: Exponential Improvements for Quantum Matrix Arithmetics (Shorter Version)](https://arxiv.org/abs/1606.02685).
+- [ ] [Rapid solutions of problems by quantum computation](https://doi.org/10.1098%2Frspa.1992.0167).
+- [ ] [Quantum state discrimination](https://arxiv.org/pdf/quant-ph/0010114).
+- [ ] [Measurement based Controlled Not gate for topological qubits in a Majorana fermion quantum-dot hybrid system](https://arxiv.org/pdf/1201.5734.pdf).
+- [ ] [Addition on a Quantum Computer](https://arxiv.org/pdf/quant-ph/0008033.pdf).
+- [ ] [A new quantum ripple-carry addition circuit](https://arxiv.org/abs/quant-ph/0410184).
+- [ ] [Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer](https://arxiv.org/abs/quant-ph/9508027v2).
+- [ ] [Demonstration of a 6 State-4 State Reference Frame Independent Channel for Quantum Key Distribution](https://arxiv.org/abs/1905.09197).
+- [ ] [Key establishment à la Merkle in a quantum world](https://arxiv.org/abs/1108.2316).
+- [ ] [Coherent state exchange in multi-prover quantum interactive proof systems](https://arxiv.org/abs/0804.4118).
+- [ ] [Quantum random walks - an introductory overview](https://arxiv.org/abs/quant-ph/0303081).
+- [ ] [Quantum Singular Value Transformation and Beyond: Exponential Improvements for Quantum Matrix Arithmetics (Shorter Version)](https://arxiv.org/abs/1606.02685).
 - [ ] [Optimal Hamiltonian Simulation by Quantum Signal Processing](https://arxiv.org/abs/1606.02685).
 - [ ] [Noisy intermediate-scale quantum (NISQ) algorithms](https://arxiv.org/abs/2101.08448).
 - [ ] [Adiabatic Quantum State Generation and Statistical Zero Knowledge](https://arxiv.org/abs/quant-ph/0301023).
@@ -158,10 +158,10 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 
 #### Quantum Machine Learning
-- [x] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
-- [x] [Online learning of quantum states](http://papers.nips.cc/paper/8111-online-learning-of-quantum-states.pdf).
-- [x] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
-- [x] [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028).
+- [ ] [Bayesian machine learning for quantum molecular dynamics](https://arxiv.org/pdf/1904.03730.pdf).
+- [ ] [Online learning of quantum states](http://papers.nips.cc/paper/8111-online-learning-of-quantum-states.pdf).
+- [ ] [Quantum statistical query learning](https://arxiv.org/abs/2002.08240).
+- [ ] [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028).
 - [ ] [Training variational quantum algorithms is NP-hard -- even for logarithmically many qubits and free fermionic systems](https://arxiv.org/abs/2101.07267).
 - [ ] [Interpretable and unsupervised phase classification](https://arxiv.org/abs/2010.04730).
 - [ ] [A quantum algorithm to train neural networks using low-depth circuits](https://arxiv.org/abs/1712.05304).
@@ -199,8 +199,8 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Quantum f-divergences and error correction](https://arxiv.org/abs/1008.2529).
 
 #### Quantum Simulation
-- [x] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
-- [x] [Quantum simulation of the Hubbard model with dopant atoms in silicon](https://www.nature.com/articles/ncomms11342).
+- [ ] [Simulating Hamiltonian dynamics with a truncated Taylor series](https://arxiv.org/abs/1412.4687).
+- [ ] [Quantum simulation of the Hubbard model with dopant atoms in silicon](https://www.nature.com/articles/ncomms11342).
 - [ ] [Quantum simulation of electronic structure with transcorrelated Hamiltonian: increasing accuracy without extra quantum resources](https://arxiv.org/abs/2006.02488).
 - [ ] [Simulating quantum field theory with a quantum computer](https://arxiv.org/abs/1811.10085).
 - [ ] [Quantum Simulation of Quantum Field Theory in the Light-Front Formulation](https://arxiv.org/abs/2002.04016).
@@ -225,12 +225,12 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 
 #### Quantum Hardware and Quantum Architecture
-- [x] [Quantum circuit optimizations for NISQ architectures](https://arxiv.org/abs/1904.01972).
-- [x] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
-- [x] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
-- [x] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
-- [x] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
-- [x] [Certification of spin-based quantum simulators](https://arxiv.org/pdf/1905.01724).
+- [ ] [Quantum circuit optimizations for NISQ architectures](https://arxiv.org/abs/1904.01972).
+- [ ] [Improved Synthesis of Clifford+T Quantum Functionality](https://iic.jku.at/files/eda/2018_date_improved_synthesis_clifford_t_quantum_circuits.pdf).
+- [ ] [Challenges in Scaling-up the Control Interface of a Quantum Computer](https://arxiv.org/abs/1912.05114).
+- [ ] [A Cryogenic Interface for Controlling Many Qubits](https://arxiv.org/abs/1912.01299).
+- [ ] [A case for multi-programming quantum computers](http://memlab.ece.gatech.edu/papers/MICRO_2019_4.pdf).
+- [ ] [Certification of spin-based quantum simulators](https://arxiv.org/pdf/1905.01724).
 - [ ] [Generation and verification of 27-qubit Greenberger-Horne-Zeilinger states in a superconducting quantum computer](https://arxiv.org/abs/2101.08946).
 - [ ] [Quasiprobability decompositions with reduced sampling overhead](https://arxiv.org/abs/2101.09290).
 - [ ] [Layered architecture for quantum computing](https://arxiv.org/abs/1010.5022).
@@ -312,9 +312,9 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 
 #### Quantum Error Correction and Quantum Fault Tolerance
-- [x] [Perfect Quantum Error Correction Code](https://arxiv.org/abs/quant-ph/9602019).
-- [x] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
-- [x] [Taming the instruction bandwidth of quantum computers via hardware-managed error correction](http://memlab.ece.gatech.edu/papers/MICRO_2017_1.pdf).
+- [ ] [Perfect Quantum Error Correction Code](https://arxiv.org/abs/quant-ph/9602019).
+- [ ] [The Heisenberg Representation of Quantum Computers](https://arxiv.org/abs/quant-ph/9807006).
+- [ ] [Taming the instruction bandwidth of quantum computers via hardware-managed error correction](http://memlab.ece.gatech.edu/papers/MICRO_2017_1.pdf).
 - [ ] [Quantum Error Correction for Beginners](https://arxiv.org/abs/0905.2794).
 - [ ] [A Class of Quantum Error-Correcting Codes Saturating the Quantum Hamming Bound](https://arxiv.org/abs/quant-ph/9604038).
 - [ ] [Quantum Error Correction via Codes over GF(4)](https://arxiv.org/abs/quant-ph/9608006).
@@ -341,15 +341,15 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 
 #### Foundations of Quantum Theory
-- [x] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
-- [x] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
-- [x] [Proposal for a quantum delayed-choice experiment](https://arxiv.org/abs/1103.0117).
-- [x] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
-- [x] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
-- [x] [Certifying the presence of a photonic qubit by splitting it in two](https://arxiv.org/abs/1510.04531).
-- [x] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
-- [x] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
-- [x] [Quantum Steering](https://arxiv.org/abs/1903.06663).
+- [ ] [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777)
+- [ ] [On the Einstein Podolsky Rosen Paradox](https://cds.cern.ch/record/111654/files/vol1p195-200_001.pdf).
+- [ ] [Proposal for a quantum delayed-choice experiment](https://arxiv.org/abs/1103.0117).
+- [ ] [Entanglement, discord and the power of quantum computation](https://arxiv.org/abs/1009.2571).
+- [ ] [Entanglement certification and quantification in spatial-bin photonic qutrits](https://arxiv.org/abs/1909.01367).
+- [ ] [Certifying the presence of a photonic qubit by splitting it in two](https://arxiv.org/abs/1510.04531).
+- [ ] [On the freedom in representing quantum operations](https://arxiv.org/abs/1810.05631).
+- [ ] [A single quantum cannot be cloned](https://www.nature.com/articles/299802a0).
+- [ ] [Quantum Steering](https://arxiv.org/abs/1903.06663).
 - [ ] [The Quantum Field Theory on Which the Everyday World Supervenes](https://philpapers.org/rec/CARTQF-5).
 - [ ] [Experimental violation of n-locality in a star quantum network](https://www.nature.com/articles/s41467-020-16189-6).
 - [ ] [Progress on the proton-radius puzzle](https://www.nature.com/articles/d41586-019-03364-z).
@@ -390,9 +390,9 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 
 #### Foundations of Quantum Computation
-- [x] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
-- [x] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
-- [x] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
+- [ ] [Quantum Computation with Coherent Spin States and the Close Hadamard Problem](https://arxiv.org/abs/1112.1446).
+- [ ] [A hidden variable model for universal quantum computation with magic states on qubits](https://arxiv.org/abs/2004.01992).
+- [ ] [A one-way quantum computer](https://www.researchgate.net/profile/Robert_Raussendorf/publication/11955500_A_One-Way_Quantum_Computer/links/56a7c8e108aeded22e370363/A-One-Way-Quantum-Computer.pdf).
 - [ ] [Concentrating Partial Entanglement by Local Operations](https://arxiv.org/abs/quant-ph/9511030).
 - [ ] [Conditions for a class of entanglement transformations](https://arxiv.org/abs/quant-ph/9811053).
 - [ ] [Topological quantum memory](https://arxiv.org/abs/quant-ph/0110143).
@@ -458,19 +458,19 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 - [ ] [Large-amplitude transfer motion of hydrated excess protons mapped by ultrafast 2D IR spectroscopy](https://science.sciencemag.org/content/357/6350/491?rss=1).
 
 #### Quantum Biology
-- [x] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
+- [ ] [Can Quantum Physics Help Solve the Hard Problem of Consciousness?](https://arxiv.org/abs/1809.03490)
 - [ ] [Quantum Cognition: The possibility of processing with nuclear spins in the brain](https://arxiv.org/abs/1508.05929).
 - [ ] [The origins of quantum biology](https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2018.0674).
 - [ ] [On Interfacing the Brain with Quantum Computers: An Approach to Listen to the Logic of the Mind](https://arxiv.org/abs/2101.03887).
 
 ### Quantum Music
-- [x] [Quantum music](https://arxiv.org/abs/1503.09045).
-- [x] [Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition](https://arxiv.org/abs/2005.05832).
-- [x] [Quantum Computer: Hello, Music!](https://arxiv.org/abs/2006.13849).
+- [ ] [Quantum music](https://arxiv.org/abs/1503.09045).
+- [ ] [Creative Quantum Computing: Inverse FFT, Sound Synthesis, Adaptive Sequencing and Musical Composition](https://arxiv.org/abs/2005.05832).
+- [ ] [Quantum Computer: Hello, Music!](https://arxiv.org/abs/2006.13849).
 
 
 #### Misc.
-- [x] [Quanta Magazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
+- [ ] [Quanta Magazine post on the "end" of the black hole information paradox](https://www.quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029/).
 - [ ] [Not Even Wrong Blog](https://www.math.columbia.edu/~woit/wordpress/).
 - [ ] [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/).
 - [ ] [Quantum Drones Take Flight](https://physics.aps.org/articles/v14/7?utm_campaign=weekly&utm_medium=email&utm_source=emailalert).
@@ -488,19 +488,19 @@ Obviously, most papers aren't confined to one of the following categories, I've 
 
 
 ### Talks and Videos
-- [x] [This Minute Physics video which, in my opinion, is the most intuitive explanation of Shor's algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
-- [x] [This Stack question which explains an important intuition behind the use of eigenvalues and eigenvectors in QM](https://physics.stackexchange.com/questions/8156/eigenvalues-of-an-operator-correspond-to-energy-states-in-quantum-mechanics-why).
-- [x] [Prof. Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
-- [x] [Prof. Umesh Vazirani's explanation of Grover's search algorithm, which unlike other online tutorials, actually explains why the diffusion operator works](https://www.youtube.com/watch?v=XumGT8Ed84Q&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG&index=64).
-- [x] [D-Wave systems' explanation of Quantum Annealing](https://www.youtube.com/watch?v=zvfkXjzzYOo&list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4).
-- [x] [Seth Lloyd's talk on QM, Time Travel and the relation between CTC and Quantum Complexity Theory](https://www.youtube.com/watch?v=yCQ_3qE6SmQ).
-- [x] [Stack Question: Why is there a kx in the wave equation?](https://physics.stackexchange.com/questions/251795/why-is-the-plane-progressive-wave-equation-y-a-sin-kx-wt-for-positive-direc/251910)
-- [x] [The best explanation of the Laplace Transform on the entire internet](https://www.youtube.com/watch?v=sZ2qulI6GEk).
-- [x] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
-- [x] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
-- [x] [Bob Coecke - Why NLP is quantum-native, and beyond!](https://youtu.be/6-uKZN5_eAU)
-- [x] [Eduardo Miranda—The Dawn of Quantum Computer Music: A Natural Progression](https://www.youtube.com/watch?v=U_axiArEKak).
-- [x] [Nathan Weibe's lecture on Amplitude Amplification](https://www.youtube.com/watch?v=vkanE8seCPw).
+- [ ] [This Minute Physics video which, in my opinion, is the most intuitive explanation of Shor's algorithm](https://www.youtube.com/watch?v=lvTqbM5Dq4Q).
+- [ ] [This Stack question which explains an important intuition behind the use of eigenvalues and eigenvectors in QM](https://physics.stackexchange.com/questions/8156/eigenvalues-of-an-operator-correspond-to-energy-states-in-quantum-mechanics-why).
+- [ ] [Prof. Brian Greene's explanation of Bell's theorem](https://www.youtube.com/watch?v=UZiwtfrisTQ).
+- [ ] [Prof. Umesh Vazirani's explanation of Grover's search algorithm, which unlike other online tutorials, actually explains why the diffusion operator works](https://www.youtube.com/watch?v=XumGT8Ed84Q&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG&index=64).
+- [ ] [D-Wave systems' explanation of Quantum Annealing](https://www.youtube.com/watch?v=zvfkXjzzYOo&list=PLPvKnT7dgEsvVQwGgrlUVXBa2J6PAW8a4).
+- [ ] [Seth Lloyd's talk on QM, Time Travel and the relation between CTC and Quantum Complexity Theory](https://www.youtube.com/watch?v=yCQ_3qE6SmQ).
+- [ ] [Stack Question: Why is there a kx in the wave equation?](https://physics.stackexchange.com/questions/251795/why-is-the-plane-progressive-wave-equation-y-a-sin-kx-wt-for-positive-direc/251910)
+- [ ] [The best explanation of the Laplace Transform on the entire internet](https://www.youtube.com/watch?v=sZ2qulI6GEk).
+- [ ] [Edward Witten's talk on Knots and Quantum Theory](https://www.youtube.com/watch?v=cuJY14BYac4&t=2460s).
+- [ ] [Prof. Barry C. Sanders' talks on Quantum Simulation](https://youtu.be/ik5nqM0bDTA).
+- [ ] [Bob Coecke - Why NLP is quantum-native, and beyond!](https://youtu.be/6-uKZN5_eAU)
+- [ ] [Eduardo Miranda—The Dawn of Quantum Computer Music: A Natural Progression](https://www.youtube.com/watch?v=U_axiArEKak).
+- [ ] [Nathan Weibe's lecture on Amplitude Amplification](https://www.youtube.com/watch?v=vkanE8seCPw).
 - [ ] [Jonathan Oppenheim - A post-quantum theory of classical gravity?](https://youtu.be/yeXdSSMfY3U)
 - [ ] [Prof. Raymond Laflamme's talk on Quantum Error Correction](https://youtu.be/YizvwR2YmIw).
 - [ ] [Prof. Chris Bishop's lectures on Graphical Models](https://www.youtube.com/watch?v=ZT8LszMo0D4&list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E).
